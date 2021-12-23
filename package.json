@@ -1,6 +1,6 @@
 {
   "name": "notes-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This node module was developed while learning Node.js with Andrew Mead on Udemy",
   "main": "app.js",
   "scripts": {
