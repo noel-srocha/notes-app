@@ -1,0 +1,16 @@
+{
+  "name": "notes-app",
+  "version": "1.0.1",
+  "description": "This node module was developed while learning Node.js with Andrew Mead on Udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manoel de Souza Rocha Neto <manoelrocha.neto.93@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "validator": "^13.7.0",
+    "yargs": "^17.3.0"
+  }
+}
