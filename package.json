@@ -1,7 +1,7 @@
 {
   "name": "notes-app",
-  "version": "1.0.2",
-  "description": "This node module was developed while learning Node.js with Andrew Mead on Udemy",
+  "version": "1.1.0",
+  "description": "This module a basic note taking app created with Node.js and is operable by using the command line. This was developed as a course project created by Andrew Mead on Udemy.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,10 @@
     "chalk": "^2.4.1",
     "validator": "^13.7.0",
     "yargs": "^17.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3"
   }
 }
